@@ -2,6 +2,7 @@
 
 <h2>Description</h2>
 The purpose of this project was to create a virtual Windows active directory environment. This lab was then used to conduct experiments such as active directory enumeration. This virtual setup allows this lab to be suitable for home use/experimentation. 
+NOTE: This project was completed thanks to the tutorial and resourced provided by Josh Madakor on YT.
 <br />
 
 
@@ -16,11 +17,36 @@ The purpose of this project was to create a virtual Windows active directory env
 - <b>Virtual Server: Windows Server 2016</b>
 - <b>Virtual Client: Windows 10</b> (Pro)
 
-<h2>Program output:</h2>
+<h2>Project output</h2>
 
 <p align="center">
-Output in Eclipse IDE console <br/>
-<img src="https://i.imgu"/>
+VirtualBox running with Windows server and client installed<br/>
+<img src="https://i.imgur.com/xtqrV32.jpg"/>
+<br />
+
+<p align="center">
+Windows Server 2016 configured<br/>
+<img src="https://i.imgur.com/VPlzp4d.jpg"/>
+<br />
+
+<p align="center">
+Both client and DC running in virtualBox<br/>
+<img src="https://i.imgur.com/5rKoQRt.jpg"/>
+<br />
+
+<p align="center">
+PowerShell script for ceating dummy users<br/>
+<img src="https://i.imgur.com/03suBVj.jpg"/>
+<br />
+
+<p align="center">
+View of created users<br/>
+<img src="https://i.imgur.com/6MUi8nQ.jpg"/>
+<br />
+
+<p align="center">
+View of client computer<br/>
+<img src="https://i.imgur.com/w2LBVpx.jpg"/>
 <br />
 
 </p>
