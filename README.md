@@ -1,8 +1,7 @@
 <h1>Windows Active Directory Lab Setup/Config</h1>
 
 <h2>Description</h2>
-The purpose of this project was to create a virtual Windows active directory environment. This lab was then used to conduct experiments such as active directory enumeration. This virtual setup allows this lab to be suitable for home use/experimentation. 
-NOTE: This project was completed thanks to the tutorial and resourced provided by Josh Madakor on YT.
+The purpose of this project was to create a virtual Windows active directory environment. This lab was then used to conduct experiments such as active directory enumeration. This virtual setup allows this lab to be suitable for home use/experimentation.
 <br />
 
 
